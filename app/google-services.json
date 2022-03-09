@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233681348020",
+    "project_id": "amber-star",
+    "storage_bucket": "amber-star.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233681348020:android:63aa2353ba56d6fa007ee1",
+        "android_client_info": {
+          "package_name": "com.incaseofmagicx.amberstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233681348020-bkdbf6fko8hmigvi46ei39eki253kq3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KMJqGxapDZkZNLwycWwbLlWOlw2NbdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233681348020-bkdbf6fko8hmigvi46ei39eki253kq3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
